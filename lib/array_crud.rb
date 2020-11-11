@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, elements)
   familey = ['Rory', 'Miranda']
-  add_element_to_end_of_array.push ('Jen')
+  familey.push ('Jen')
 
   
 end
